@@ -31,8 +31,6 @@ A simple web app for booking movie tickets built using Node.js, Express, and Mon
 - Bookings stored in MongoDB
 - REST API integration with validation
 
-## 📝 License
 
-This project is for educational use only.
 
     
